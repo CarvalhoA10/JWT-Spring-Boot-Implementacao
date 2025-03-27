@@ -1,0 +1,1 @@
+# Implementação de token JWT para usos futuros e como exemplo
